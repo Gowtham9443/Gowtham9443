@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20building." alt="Typing introduction" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=GOWTHAM M%20A&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20building." alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=A-Santhosh-Hub">
+    <img src="https://komarev.com/ghpvc/?username=A-Santhosh-Hub&label=Profile%20views&color=00FFFF&style=flat-square" alt="A-Santhosh-Hub's profile views" />
+  </a>
+</p>
 
 # 💫 About Me:
 <br>🔭 I’m currently Actively seeking new opportunities.<br>🌱 I’m currently learning Java....<br>👨‍💻 All of my projects are available at https://gowtham2025.neocities.org/<br>📫 How to reach me ** mailto:gowthamjaddu86@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1akuOYQNnDH8KUeaDByzWvIaESWCK4Vuk/view?usp=drivesdk
