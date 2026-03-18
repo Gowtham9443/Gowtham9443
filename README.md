@@ -1,10 +1,5 @@
 ## Hi there.. I am Gowtham.M.. 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Always%20learning%2C%20always%20building." alt="Typing introduction" />
-</p>
-
-
 # 💫 About Me:
 <br>🔭 I’m currently Actively seeking new opportunities.<br>🌱 I’m currently learning Java....<br>👨‍💻 All of my projects are available at https://gowtham2025.neocities.org/<br>📫 How to reach me ** mailto:gowthamjaddu86@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1akuOYQNnDH8KUeaDByzWvIaESWCK4Vuk/view?usp=drivesdk
 
