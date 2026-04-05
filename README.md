@@ -58,7 +58,7 @@
 
 # 📊 GitHub Stats:
 
-<a href="http://www.github.com/Gowtham9443 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443 &stroke=0891b2&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=0891b2&currStreakLabel=a855f7&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443&" alt="Gowtham9443" /></p>
 
 
 <p align="center">
