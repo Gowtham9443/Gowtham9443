@@ -57,9 +57,9 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gowtham9443&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gowtham9443&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham9443&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Gowtham9443 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443 &stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
