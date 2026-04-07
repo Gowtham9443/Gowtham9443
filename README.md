@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gowtham%20M&fontAlign=48&fontAlignY=41&animation=twinkling&textBg=false" />
+
+![img Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 # Hi there.. I am Gowtham.M.. 👋
   
 # 💫 About Me:
