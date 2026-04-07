@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gowtham%20M&fontAlign=48&fontAlignY=41&animation=twinkling&textBg=false" />
+<img src="https://github.com/Gowtham9443/Gowtham9443/blob/68860222efcaa03e79549772d7884f8e87db6cf2/github-header-banner%20(1).png" />
 
 ![img Banner-2](https://github.com/Gowtham9443/Gowtham9443/blob/ec5dba4fe28336320cfea13d64f06b2b967e9ce9/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 # Hi there.. I am Gowtham.M.. 👋
