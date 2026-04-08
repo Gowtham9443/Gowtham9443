@@ -62,7 +62,9 @@
 
 # 📊 GitHub Stats:
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443&" alt="Gowtham9443" /></p>
+<p align="center">
+  <img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443&" alt="Gowtham9443" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
