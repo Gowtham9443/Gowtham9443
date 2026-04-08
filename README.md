@@ -61,8 +61,7 @@
 </div>
 
 # 📊 GitHub Stats:
-
-<a href="http://www.github.com/Gowtham9443 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443 &stroke=0891b2&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=0891b2&currStreakLabel=a855f7&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/Gowtham9443 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443 &stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
