@@ -3,12 +3,38 @@
 
 ![img Banner-2](https://github.com/Gowtham9443/Gowtham9443/blob/ec5dba4fe28336320cfea13d64f06b2b967e9ce9/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
-  
-# 💫 About Me:
-<br>🔭 I’m currently Actively seeking new opportunities. <br>🌱 I’m currently learning Java.... <br>👨‍💻 All of my projects are available at https://gowtham2025.neocities.org/<br>📫 How to reach me ** mailto:gowthamjaddu86@gmail.com <br>📄 Know about my experiences https://drive.google.com/file/d/1akuOYQNnDH8KUeaDByzWvIaESWCK4Vuk/view?usp=drivesdk
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Gowtham M</h1>
+<h3 align="center">Web Developer</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/v1XtB5UQwrUpff2nyFJZ3px7Nj7uCMwwco6zQT1ESRemqX3kt5nxUrgtmT8obb5l/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gowtham_h_official/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/jaddumad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowthamjaddu86@gmail.com) 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Gowtham9443 ">
+    <img src="https://komarev.com/ghpvc/?username=Gowtham9443 &label=Profile%20views&color=00FFFF&style=flat-square" alt="Gowtham9443 's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
+- 🔭 I’m currently Actively seeking new opportunities.
+- 🌱 I’m currently learning Java....
+- 👨‍💻 All of my projects are available at https://gowtham2025.neocities.org/
+- 📫 How to reach me ** mailto:gowthamjaddu86@gmail.com
+- 📄 Know about my experiences https://drive.google.com/file/d/1akuOYQNnDH8KUeaDByzWvIaESWCK4Vuk/view?usp=drivesdk
+
+
+## 🧠 My Focus Areas
+- Web development
+- Full stack developer
+- AI prompt engineer
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Gowtham9443 &theme=dracula&hide_border=true&cache_seconds=86400" alt="Gowtham9443 's GitHub Streak" width="49%" />
+</p>
+
+
+## 🔗 Connect with Me
+<p align="center"> <a href="https://x.com/https://x.com/jaddumad" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:gowthamjaddu86@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://gowtham2025.neocities.org/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
 
 # 💻 Tech Stack:
 
@@ -60,10 +86,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-# 📊 GitHub Stats:
-<a align="center" href="http://www.github.com/Gowtham9443"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
