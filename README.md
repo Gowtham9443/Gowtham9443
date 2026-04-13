@@ -25,8 +25,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443&" alt="Gowtham9443" /></p>
-
+<a href="http://www.github.com/Gowtham9443 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gowtham9443 &stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ## 🔗 Connect with Me
 <p align="center"> <a href="mailto:gowthamjaddu86@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://gowtham2025.neocities.org/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
