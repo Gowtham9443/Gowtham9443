@@ -29,14 +29,23 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="mailto:gowthamjaddu86@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
+  <a href="mailto:gowthamjaddu86@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://gowtham2025.neocities.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
+  <a href="https://gowtham2025.neocities.org/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/your-username">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
   </a>
 </p>
+
 
 
 # 💻 Tech Stack:
