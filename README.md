@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/gowtham-m-96aa162a0)">
+  <a href="https://www.linkedin.com/in/gowtham-m-96aa162a0">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
   </a>
 </p>
