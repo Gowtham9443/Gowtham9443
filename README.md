@@ -28,7 +28,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham9443&" alt="gowtham9443" /></p>
 
 ## 🔗 Connect with Me
-<p align="center"> <a href="mailto:gowthamjaddu86@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://gowtham2025.neocities.org/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+  <a href="mailto:gowthamjaddu86@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gowtham2025.neocities.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" height="40"/>
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
