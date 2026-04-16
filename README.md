@@ -24,7 +24,7 @@
 - Android developer
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowtham9443&" alt="gowtham9443" /></p>
 
 ## 🔗 Connect with Me
