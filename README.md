@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Gowtham9443">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
