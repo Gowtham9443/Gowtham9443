@@ -32,7 +32,7 @@
   <a href="mailto:gowthamjaddu86@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40"/>
   </a>
- 
+  &nbsp;&nbsp;&nbsp;
   <a href="https://gowtham2025.neocities.org/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40"/>
   </a>
