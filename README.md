@@ -21,7 +21,7 @@
 - Web development
 - Full stack developer
 - AI prompt engineer
-- Android developer
+- Android developer  
 
 
 ## 📊 GitHub Stats 
